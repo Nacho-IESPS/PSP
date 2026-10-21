@@ -1,0 +1,9 @@
+# Ignorar toda la carpeta de configuración del IDE
+.idea/
+
+# Excepto el archivo que mapea el sistema de control de versiones
+!.idea/vcs.xml
+
+# (Opcional) Si usas librerías externas o tareas compartidas, también puedes excluirlas del ignore:
+!.idea/modules.xml
+!.idea/runConfigurations/
