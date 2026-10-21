@@ -1,0 +1,15 @@
+ El volumen de la unidad C es sistema
+ El n£mero de serie del volumen es: 4239-0ACB
+
+ Directorio de C:\Users\nacho\IdeaProjects\untitled
+
+29/09/2026  19:25    <DIR>          .
+17/09/2026  17:26    <DIR>          ..
+17/09/2026  17:26               352 .gitignore
+29/09/2026  19:25    <DIR>          .idea
+17/09/2026  17:33    <DIR>          out
+29/09/2026  19:25                 0 salida_proceso.txt
+29/09/2026  19:25    <DIR>          src
+19/09/2026  14:11               717 untitled.iml
+               3 archivos          1.069 bytes
+               5 dirs  125.685.604.352 bytes libres
